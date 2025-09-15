@@ -4,8 +4,8 @@
 
 1. oggで書き出すために、ffmpegをインストールする必要があります。(oggとして書き出せません。その場合wavとしては一応保存されます。)  
    Windowsなら、コマンドプロンプトを開いて、
-   
-   'winget install ffmpeg'
+
+winget install ffmpeg
 
 と打つだけで自動で諸々やってくれます。
 
