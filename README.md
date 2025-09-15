@@ -64,3 +64,5 @@
 ## 動作環境
 
 ffmpeg、.NET Framework 4.7.2以上がインストールされているWindows環境で動作します。
+
+
