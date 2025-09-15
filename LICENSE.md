@@ -8,7 +8,7 @@
 
 - **NVorbis (NAudio.Vorbis)**  
   ライセンス: MIT License  
-  ライセンス全文: https://github.com/SteveLillis/NVorbis/blob/master/LICENSE
+  ライセンス全文: [https://github.com/SteveLillis/NVorbis/blob/master/LICENSE](https://github.com/NVorbis/NVorbis/blob/master/LICENSE)
 
 本ソフトウェアの独自部分は無償で自由に使用・配布可能です。  
 利用にあたっては、上記ライブラリのライセンス条項に従ってください。
