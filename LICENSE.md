@@ -4,7 +4,7 @@
 
 - **NAudio**  
   ライセンス: Microsoft Public License (Ms-PL)  
-  ライセンス全文: https://github.com/naudio/NAudio/blob/master/LICENSE.txt
+  ライセンス全文: [https://github.com/naudio/NAudio/blob/master/LICENSE.txt](https://github.com/naudio/NAudio/blob/master/license.txt)
 
 - **NVorbis (NAudio.Vorbis)**  
   ライセンス: MIT License  
